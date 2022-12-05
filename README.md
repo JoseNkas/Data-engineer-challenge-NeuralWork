@@ -1,6 +1,6 @@
 # Data-engineer-challenge-NeuralWork
 
-En el presente github se presenta las soluciones a los problemas planteado por la empresa NEURALWORKS, para acceder al puesto de Data engineer.
+En el presente github se presentan las soluciones a los problemas planteado por la empresa NEURALWORKS, para acceder al puesto de Data engineer.
 
 En el archivo” Neural_Work_Solucion.ipynb” encontrarán todos los pasos y planteamientos que se utilizaron para poder realizar el desafío. 
 
